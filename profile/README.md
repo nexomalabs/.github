@@ -118,7 +118,7 @@ More projects will be released as they mature.
 
 🌐 **Website**
 
-https://nexomalabs.github.io/nexomalabs/
+https://nexomalabs.github.io
 
 💼 **LinkedIn**
 
