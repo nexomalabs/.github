@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NexomaLabs/nexomalabs/main/assets/logo.png" width="180" alt="Nexoma Labs Logo">
+<img src="https://raw.githubusercontent.com/NexomaLabs/nexomalabs/main/assets/Nexoma-logo.png" width="180" alt="Nexoma Labs Logo">
 
 # Nexoma Labs LLC
 
@@ -63,7 +63,7 @@ We believe in giving back to the developer community by publishing useful tools,
 | Gym Body – Fitly | 🚧 In Development |
 | AI & Prompt Engineering Series | ✍️ Writing |
 | Nexoma Publishing Framework (NPF) | 🔒 Internal |
-| Future Habit Tracker | 💡 Planning |
+| Future AI Habit Tracker | 💡 Planning |
 | AI Business Applications | 💡 Planning |
 
 ---
