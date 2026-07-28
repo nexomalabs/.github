@@ -6,7 +6,7 @@
 
 ### Building Intelligent Apps for a Smarter Tomorrow.
 
-[🌐 Website](https://nexomalabs.github.io/nexomalabs/) •
+[🌐 Website](https://nexomalabs.github.io) •
 [💼 LinkedIn](https://www.linkedin.com/company/nexoma-labs-llc) •
 [📺 YouTube](https://www.youtube.com/@NexomaLabs)
 
