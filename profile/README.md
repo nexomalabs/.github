@@ -7,8 +7,10 @@
 ### Building Intelligent Apps for a Smarter Tomorrow.
 
 [🌐 Website](https://www.nexomalabs.com) •
+[ :books: Books](https://books.nexomalabs.com/) •
 [💼 LinkedIn](https://www.linkedin.com/company/nexoma-labs-llc) •
 [📺 YouTube](https://www.youtube.com/@NexomaLabs)
+
 
 </div>
 
@@ -61,10 +63,14 @@ We believe in giving back to the developer community by publishing useful tools,
 | Project | Status |
 |---------|--------|
 | Gym Body – Fitly | 🚧 In Development |
+| Hundy | 🚧 In Production |
+| Kidiverse | 🚧 In Production |
 | AI & Prompt Engineering Series | ✍️ Writing |
 | Nexoma Publishing Framework (NPF) | 🔒 Internal |
+| Nexoma Studio Video production | 🔒 Internal |
 | Future AI Habit Tracker | 💡 Planning |
 | AI Business Applications | 💡 Planning |
+| Managment Team Tracker | 💡 Planning |
 
 ---
 
