@@ -145,6 +145,6 @@ admin@nexomalabs.com
 
 ### Building Intelligent Apps for a Smarter Tomorrow.
 
-**Nexoma Labs LLC**
+**&copy; 2026 Nexoma Labs LLC. All rights reserved.**
 
 </div>
