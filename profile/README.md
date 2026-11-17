@@ -70,7 +70,7 @@ We believe in giving back to the developer community by publishing useful tools,
 | Nexoma Studio Video production | 🔒 Internal |
 | Future AI Habit Tracker | 💡 Planning |
 | AI Business Applications | 💡 Planning |
-| Managment Team Tracker | 💡 Planning |
+| Intelligent Project Management Platform | 💡 Planning |
 
 ---
 
